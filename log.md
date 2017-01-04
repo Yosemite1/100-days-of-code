@@ -2,11 +2,11 @@
 
 ### Day 1: January 3, 2017
 
-**Today's Progress**: 
+**Today's Progress**: I learned about scopes, both global and functional, as well as arryas and loops
 
-**Thoughts:** 
+**Thoughts:** I understood most but don't understand how the loops work. The tutorial said to set the varaible to 0 and then the stop condition was to see if the variable was less than the length of the array. Why does the loop work if  it is alredy less than 0
 
-**Link to work:** 
+**Link to work:** Not avaible right now
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
