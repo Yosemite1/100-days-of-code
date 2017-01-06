@@ -17,12 +17,19 @@
 **Link(s) to work**: Not sure what to do to get a link
 
 
-### Day 1: June 27, Monday
+### Day 3: January 5, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Finsihed the learn Javascript lesson on codecademy. Worked on webpage
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I really liked learning about JQuery and seeing the website example of codecademy made me want to work on something similiar.
+
+**Link(s) to work** Codecademy.com
+
+
+### Day 3: January 5, 2017
+
+**Today's Progress**:
+
+**Thoughts** 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
