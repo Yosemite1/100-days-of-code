@@ -26,10 +26,10 @@
 **Link(s) to work** Codecademy.com
 
 
-### Day 3: January 5, 2017
+### Day 4: January 7, 2017
 
-**Today's Progress**:
+**Today's Progress**: Did a litte JQuery tutorial. Worked on webpage
 
-**Thoughts** 
+**Thoughts** : I reakly struggle with JQuery. I have no idea why mine won't work.
 
-**Link(s) to work**
+**Link(s) to work** Codecademy.com
