@@ -30,6 +30,15 @@
 
 **Today's Progress**: Did a litte JQuery tutorial. Worked on webpage
 
-**Thoughts** : I reakly struggle with JQuery. I have no idea why mine won't work.
+**Thoughts** : I really struggle with JQuery. I have no idea why mine won't work.
 
 **Link(s) to work** Codecademy.com
+
+
+### Day 5: January 8, 2017
+
+**Today's Progress**: Did some more Jquery tutorials
+
+**Thoughts** : I still strugle to understand why my JQuery won't work. I will ask someone to help me understand tomorrow. I started to do W3schools and I am understanding better.
+
+**Link(s) to work** http://www.w3schools.com/jquery/jquery_fade.asp
