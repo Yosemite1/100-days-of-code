@@ -51,3 +51,15 @@
 **Thoughts** : I was missing a . which is why my code wasn't working. I have learned how to get a dot to move across the screen when a button is clicked.
 
 **Link(s) to work** http://www.w3schools.com/jquery/jquery_fade.asp
+
+
+### Day 7: January 9, 2017
+
+**Today's Progress**: I made a simple form thing
+
+**Thoughts** : Things are running smoothly
+
+**Link(s) to work** http://www.w3schools.com/jquery/jquery_fade.asp
+
+
+### Day 8: 
