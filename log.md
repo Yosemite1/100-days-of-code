@@ -53,7 +53,7 @@
 **Link(s) to work** http://www.w3schools.com/jquery/jquery_fade.asp
 
 
-### Day 7: January 9, 2017
+### Day 7: January 10, 2017
 
 **Today's Progress**: I made a simple form thing
 
@@ -62,4 +62,11 @@
 **Link(s) to work** http://www.w3schools.com/jquery/jquery_fade.asp
 
 
-### Day 8: 
+### Day 8: January 11, 2017
+**Today's Progress**: I learned about getting and setting in JQuery. DId some work on codecademy
+
+**Thoughts** : I have gone far in JQuery w3 tutorial. I am switching to codecademy.
+
+**Link(s) to work** http://www.w3schools.com/jquery/jquery_fade.asp
+
+
