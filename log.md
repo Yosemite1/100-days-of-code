@@ -70,3 +70,10 @@
 **Link(s) to work** http://www.w3schools.com/jquery/jquery_fade.asp
 
 
+### Day 9: January 13, 2017
+**Today's Progress**: Did more codecademy tutorials. I learned how to make to-do list in jQuery
+**Thoughts** : I am exited to have learned how to make the to do list because that is something I have been wanting to do.
+
+**Link(s) to work** http://www.w3schools.com/jquery/jquery_fade.asp
+
+
