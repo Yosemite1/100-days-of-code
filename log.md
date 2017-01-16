@@ -90,3 +90,9 @@
 
 **Link(s) to work** https://jterm2017-jtp.c9users.io/
 
+
+### Day 12: January 16, 2017
+**Today's Progress**: Finished jQuery tutorials on codecademy. Worked on todo list
+**Thoughts** : Have somewhat added themes to to-do list. To-do list is making progress
+
+**Link(s) to work** https://jterm2017-jtp.c9users.io/
