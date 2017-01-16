@@ -77,3 +77,10 @@
 **Link(s) to work** http://www.w3schools.com/jquery/jquery_fade.asp
 
 
+### Day 10: January 14, 2017
+**Today's Progress**: Made a functioning to-do list
+**Thoughts** : I have achieved my goal of building a to-do list. I am super excited to have learned this. I feel like I have made a vast improvement in my coding skills
+
+**Link(s) to work** https://jterm2017-jtp.c9users.io/
+
+
