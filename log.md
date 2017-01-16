@@ -84,3 +84,9 @@
 **Link(s) to work** https://jterm2017-jtp.c9users.io/
 
 
+### Day 11: January 15, 2017
+**Today's Progress**: Worked through more jQuery tutorials on codecademy. Worked on todo list
+**Thoughts** : I am trying to add themes to the to-do list. So far it is not working.
+
+**Link(s) to work** https://jterm2017-jtp.c9users.io/
+
