@@ -96,3 +96,10 @@
 **Thoughts** : Have somewhat added themes to to-do list. To-do list is making progress
 
 **Link(s) to work** https://jterm2017-jtp.c9users.io/
+
+
+### Day 13: January 18, 2017
+**Today's Progress**: Did Javascript tutorials. Learned about for loops. Made my own for loops.
+**Thoughts** : I learned about for loops in a previous lesson but I really needed that refresher
+
+**Link(s) to work** https://jterm2017-jtp.c9users.io/forloops.html
