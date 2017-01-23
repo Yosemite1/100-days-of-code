@@ -103,3 +103,10 @@
 **Thoughts** : I learned about for loops in a previous lesson but I really needed that refresher
 
 **Link(s) to work** https://jterm2017-jtp.c9users.io/forloops.html
+
+
+### Day 14: January 19-22, 2017
+**Today's Progress**: Did more work on for loops and started on while loops
+**Thoughts** : I am confused by for loops and the way w3schools does it confuses me.
+
+**Link(s) to work** https://jterm2017-jtp.c9users.io/forloops.html
