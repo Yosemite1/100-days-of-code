@@ -110,3 +110,10 @@
 **Thoughts** : I am confused by for loops and the way w3schools does it confuses me.
 
 **Link(s) to work** https://jterm2017-jtp.c9users.io/forloops.html
+
+
+### Day 15: January 23, 2017
+**Today's Progress**: Did html, css, and jQuery lessons
+**Thoughts** : I started using freecodecamp and it is quite useful
+
+**Link(s) to work** https://jterm2017-jtp.c9users.io/buttons.html
