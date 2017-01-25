@@ -122,4 +122,4 @@
 **Today's Progress**: Did freecodecamp tutorials. Made a website about Henry Ford by following project template on freecodecamp
 **Thoughts** : I like how freecodecamp gives project ideas. Helps me to learn better.
 
-**Link(s) to work** http://codepen.io/yosemite/pen/PWKoNN
+**Link(s) to work** http://codepen.io/yosemite/full/PWKoNN
