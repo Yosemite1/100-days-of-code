@@ -117,3 +117,9 @@
 **Thoughts** : I started using freecodecamp and it is quite useful
 
 **Link(s) to work** https://jterm2017-jtp.c9users.io/buttons.html
+
+### Day 16: January 24, 2017
+**Today's Progress**: Did freecodecamp tutorials. Made a website about Henry Ford by following project template on freecodecamp
+**Thoughts** : I like how freecodecamp gives project ideas. Helps me to learn better.
+
+**Link(s) to work** http://codepen.io/yosemite/pen/PWKoNN
