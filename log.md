@@ -118,8 +118,16 @@
 
 **Link(s) to work** https://jterm2017-jtp.c9users.io/buttons.html
 
+
 ### Day 16: January 24, 2017
 **Today's Progress**: Did freecodecamp tutorials. Made a website about Henry Ford by following project template on freecodecamp
 **Thoughts** : I like how freecodecamp gives project ideas. Helps me to learn better.
+
+**Link(s) to work** http://codepen.io/yosemite/pen/PWKoNN
+
+
+### Day 17: January 25, 2017
+**Today's Progress**: Completed freecodecamp bootstrap tutorial and started jQuery.
+**Thoughts** : Bootstrap is helpful
 
 **Link(s) to work** http://codepen.io/yosemite/pen/PWKoNN
