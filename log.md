@@ -131,3 +131,10 @@
 **Thoughts** : Bootstrap is helpful
 
 **Link(s) to work** http://codepen.io/yosemite/pen/PWKoNN
+
+
+### Day 18: January 26, 2017
+**Today's Progress**: Completed freecodecamp jQuery tutorial. Started on portfolio project. Currently working on navbar.
+**Thoughts** : I ran into a problem trying to make a navbar but the problem got fixed. I can't figure out how to change navbar text color.
+
+**Link(s) to work** https://codepen.io/yosemite/pen/xgXMBP
