@@ -138,3 +138,10 @@
 **Thoughts** : I ran into a problem trying to make a navbar but the problem got fixed. I can't figure out how to change navbar text color.
 
 **Link(s) to work** https://codepen.io/yosemite/pen/xgXMBP
+
+
+### Day 19: January 27, 2017
+**Today's Progress**: Worked on website. Navbar is pretty much finished. Working on first part of webpage.
+**Thoughts** : Encountered some problems with h2 element but found out that the navbar was covering it.
+
+**Link(s) to work** https://codepen.io/yosemite/pen/xgXMBP
