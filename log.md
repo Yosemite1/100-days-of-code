@@ -145,3 +145,10 @@
 **Thoughts** : Encountered some problems with h2 element but found out that the navbar was covering it.
 
 **Link(s) to work** https://codepen.io/yosemite/pen/xgXMBP
+
+
+### Day 20: Feburary 1, 2017
+**Today's Progress**: Worked on website. Studied Javascript
+**Thoughts** : Switching away from website for some time. I don't think I am ready for that project
+
+**Link(s) to work** https://jterm2017-jtp.c9users.io/javascript.html
